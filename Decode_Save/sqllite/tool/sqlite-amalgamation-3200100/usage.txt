@@ -1,0 +1,1 @@
+LIB /DEF:sqlite3.def /machine:IX86。这时，在sqlite-dll文件夹下会出现sqlite3.lib。
